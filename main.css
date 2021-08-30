@@ -48,3 +48,16 @@ color: darkgray;
     border-radius: 50%;
 }
 
+.dev{
+    color: brown;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.why{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornsilk;
+    background-color: rgb(128, 6, 30) ;
+    border-radius: 10px;
+    text-indent:10px;
+    text-align: inherit;
+    padding-left: 20px;

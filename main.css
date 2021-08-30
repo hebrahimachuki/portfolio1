@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(212, 233, 233);
+    font-family: sans-serif;
+}
+.green-background{
+    background-color: #cfcfcf;
+    border-radius: 10px;
+
+
+}
+.green-background h1{
+    color: rgb(110, 16, 16);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.about {
+  padding: 0px 0px;
+  position: relative;
+  text-align: center;
+  width: 20%;
+  height: auto;
+  background-color: rgb(128, 6, 30) ;
+  border-radius: 15px;
+}
+.about h2:hover{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkgray;
+}
+.educ{
+    border-left: 100px;
+}
+.educ h3{
+    font-weight:4px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 50px;
+
+}
+.para{
+    background-color: rgb(228, 228, 227);
+    border-radius: 20px;
+}
+.para p{
+    color: blue;
+}
+
+.island{
+    width: 300px;
+    border-radius: 50%;
+}
+

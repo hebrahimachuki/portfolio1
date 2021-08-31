@@ -12,7 +12,7 @@
 #### Just have it clone from the git hub link so as to get all the necessary details. https://github.com/hebrahimachuki/portfolio1
 
 ## License:
-
+### MIT License
 
 
 
